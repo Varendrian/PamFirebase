@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20531124929",
+    "project_id": "pamfirebase-ecc13",
+    "storage_bucket": "pamfirebase-ecc13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20531124929:android:0f170c830801039a361240",
+        "android_client_info": {
+          "package_name": "com.example.pamfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20531124929-ka6m6k53hs01r3qa7f12ali0js245rqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzoOxYkg7PXicRukjx262a22ehveQ4A4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20531124929-ka6m6k53hs01r3qa7f12ali0js245rqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
